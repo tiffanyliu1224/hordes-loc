@@ -131,7 +131,8 @@ export default [
       nl: 'Deze manchetten waren gesmeed met een speciaal vuur die alleen gecreëerd kunnen worden door magie. In het verleden, vuur elementalen leerden alleen een paar speciale hoefsmeden het geheim van hoe je de ember cuffs moet smeden.',
       it: 'Questi polsini sono stati forgiati con un fuoco speciale che può essere creato utilizzando solo la magia. Nel passato, gli elementali del fuoco insegnavano solo a pochi speciali fabbri il segreto per forgiare questi polsini di brace.',
       ro: 'Aceste manșete au fost făurite într-un foc special care poate fi creat doar prin magie. În trecut, maeștrii focului au învățat doar câțiva fierari speciali secretul forjării acestora.',
-      cs: 'Tyto manžety byly ukovány speciálním ohněm, který lze vytvořit pouze pomocí magie. V minulosti ohniví elementálové naučili jen několik speciálních kovářů tajemství kování uhlíkových manžet.'
+      cs: 'Tyto manžety byly ukovány speciálním ohněm, který lze vytvořit pouze pomocí magie. V minulosti ohniví elementálové naučili jen několik speciálních kovářů tajemství kování uhlíkových manžet.',
+      zh: '這些手套由魔法創造的特殊火焰而製成。在過去，火元素僅向少數的工匠傳授鍛造這些手套的秘密。'
     }
   },
 
@@ -149,7 +150,8 @@ export default [
       nl: 'Mirror armlets zijn gemaakt door buitengewone hoefsmeden met de vaardigheid noodzakelijk om reflecterende harnassen te maken voor schade vermindering. Deze beschermende kwaliteit inspireerde vele elven tovenaars om vaak te experimenteren op mirror armlets.',
       it: 'I braccialetti specchiati sono fatti da eccezionali fabbri con la capacità necessaria a creare un\'armatura riflettente per ridurre il danno. Questa qualità protettiva ha ispirato molti maghi Elvish a sperimentare su questi braccialetti.',
       ro: 'Aceste manșete lucioase au fost forjate de fierari excepționali care au abilitățile necesare de a făuri armură reflectorizantă ce reduce daunele. Această calitate protectoare a inspirat mulți vrăjitori elfi să experimenteze pe aceste manșete.',
-      cs: 'Zrcadlové nárameníky vyrábí výjimeční kováři s dovednostmi nezbytnými k výrobě reflexního brnění pro snížení poškození. Tato ochranná kvalita inspirovala mnoho elfských kouzelníků k častému experimentování se zrcadlovými náramky.'
+      cs: 'Zrcadlové nárameníky vyrábí výjimeční kováři s dovednostmi nezbytnými k výrobě reflexního brnění pro snížení poškození. Tato ochranná kvalita inspirovala mnoho elfských kouzelníků k častému experimentování se zrcadlovými náramky.',
+      zh: 'Mirrored armlets 由出色的鐵匠製作，他們具有製作反射盔甲以減少傷害所需的技能。它的保護品質促使許多精靈巫師經常對它做實驗。'
     }
   },
 
@@ -167,7 +169,8 @@ export default [
       nl: 'Golem fragments zijn nauw in elkaar gezet door een kleine team van magie-gebruikende hoefsmeden. Elk paar golem fragments zijn gemaakt over honderden dagen met gebruik van de omhulsels van rots golems.',
       it: 'I frammenti di Golem sono assemblati scrupolosamente da una piccola squadra di fabbri-maghi. Ogni paio di frammenti di Golem sono creati in alcune centinaia di giorni usando i gusci dei golem di roccia.',
       ro: 'Fragmente de golem au fost asamblate cu grijă de o echipă mică de fierari magicieni. Fiecare manșetă este creată în câteva sute de zile folosind rămășițele golemilor de piatră.',
-      cs: 'Fragmenty golemů jsou pečlivě sestaveny malým týmem kovářů využívajících magii. Každý pár úlomků golemů je vytvořen během několika set dní pomocí slupek skalních golemů.'
+      cs: 'Fragmenty golemů jsou pečlivě sestaveny malým týmem kovářů využívajících magii. Každý pár úlomků golemů je vytvořen během několika set dní pomocí slupek skalních golemů.',
+      zh: 'Golem fragments 由一個使用魔法的鐵匠小團隊精心組裝而成。每一對碎片都是用岩石魔像的外殼經過數百天的時間製作而成。'
     }
   },
 
@@ -185,7 +188,8 @@ export default [
       nl: 'Armbanden zoals deze zijn gemaakt uit zeldzame metalen gevonden in de bergen. Hoefsmeden gebruiken betoverde hamers om de armbanden te smeden zonder hitte zodat de magie verbeteringen op het metaal blijft.',
       it: 'Bracciali come questo sono composti di un metallo raro trovato nelle montagne. I fabbri usano dei martelli incantati per forgiare bracciali senza calore al fine di conservare le proprietà magiche del metallo.',
       ro: 'Apăratorile pentru braț asemănătoare acesteia sunt formate dintr-un metal rar găsit în munți. Fierarii folosesc ciocane fermecate pentru a le făuri fără căldură și pentru a menține proprietățile magice ale metalului.',
-      cs: 'Bracery, jako je tento, se skládají ze vzácného kovu nalezeného v horách. Kováři používají začarovaná kladiva k kování výztuh bez tepla, aby si zachovali magické vlastnosti kovu.'
+      cs: 'Bracery, jako je tento, se skládají ze vzácného kovu nalezeného v horách. Kováři používají začarovaná kladiva k kování výztuh bez tepla, aby si zachovali magické vlastnosti kovu.',
+      zh: '像這樣的護腕由一種在山區發現的稀有金屬製成。鐵匠使用附魔錘在不加熱的情況下鍛造護腕，以保留金屬的魔法增強特性。'
     }
   },
 
